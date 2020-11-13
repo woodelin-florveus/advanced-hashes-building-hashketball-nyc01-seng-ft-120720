@@ -1,10 +1,10 @@
 # Write your code here!
 
 require "pry"
-
+  binding.pry
 def game_hash(data)
 
-  binding.pry
+
 
 # game_stat = Hash.new
 #
