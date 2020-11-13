@@ -117,7 +117,8 @@ game_stat = {
         steals: 22,
         blocks: 5,
         slam_dunks: 12
-      }]
+      }
+      ]
   }
 }
 
