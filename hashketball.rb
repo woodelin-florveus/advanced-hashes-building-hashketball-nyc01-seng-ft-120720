@@ -114,7 +114,7 @@ def game_hash
         :slam_dunks => 0
         },
         {
-        :name => "Brendan Haywood",
+        :player_name => "Brendan Haywood",
         :number => 33,
         :shoe => 15,
         :points => 6,
