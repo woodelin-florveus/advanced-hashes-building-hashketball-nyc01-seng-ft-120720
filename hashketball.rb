@@ -66,7 +66,7 @@ game_stat = {
       },
   :away => {
     :team_name => "Charlotte Hornets",
-    :colors => {},
+    :colors => ["Turquoise", "Purple"],
     :players => {}
   }
 }
