@@ -2,7 +2,7 @@
 
 
 
-def game_hash(data)
+def game_hash
 
 game_stat = Hash.new
 
