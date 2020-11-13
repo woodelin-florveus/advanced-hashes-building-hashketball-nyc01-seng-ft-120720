@@ -127,5 +127,5 @@ def game_hash
 
 # The values of the :home and :away keys are hashes
 
-game_stat
+# game_stat
 end
