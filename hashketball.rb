@@ -3,8 +3,6 @@
 require "pry"
 
 def game_hash(data)
-
-
   binding.pry
 game_stat = Hash.new
 
