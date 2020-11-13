@@ -6,7 +6,7 @@ def game_hash
 
 game_stat = Hash.new
 
- {
+        {
   :home => {
     :team_name => "Brooklyn Nets",
     :colors => ["Black", "White"]
@@ -123,7 +123,7 @@ game_stat = Hash.new
       }
     ]
   }
-
+}
 
 # The values of the :home and :away keys are hashes
 
