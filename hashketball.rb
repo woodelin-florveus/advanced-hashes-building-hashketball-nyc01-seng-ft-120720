@@ -63,9 +63,9 @@ game_stat = {
           slam_dunks: 1
           }
         ]
-  },
+      },
   :away => {
-    :team_name => {},
+    :team_name => "Charlotte Hornets",
     :colors => {},
     :players => {}
   }
