@@ -8,7 +8,7 @@ game_stat = Hash.new
 
 game_stat = {
   :home => {
-    :team_name => {},
+    :team_name => ["Brooklyn Nets"]
     :colors => {},
     :players => {}
   },
