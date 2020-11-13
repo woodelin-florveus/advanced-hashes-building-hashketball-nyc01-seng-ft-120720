@@ -1,4 +1,6 @@
 # Write your code here!
-def game_hash(data)
-  {}
+def game_hash
+
+
+
 end
