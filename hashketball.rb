@@ -12,7 +12,11 @@ game_stat = {
     :colors => {},
     :players => {}
   },
-  :away => {}
+  :away => {
+    :team_name => {},
+    :colors => {},
+    :players => {}
+  }
 }
 
 # The values of the :home and :away keys are hashes
