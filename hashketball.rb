@@ -7,7 +7,11 @@ def game_hash
 game_stat = Hash.new
 
 game_stat = {
-  :home => {},
+  :home => {
+    :team_name => {},
+    :colors => {},
+    :players => {}
+  },
   :away => {}
 }
 
