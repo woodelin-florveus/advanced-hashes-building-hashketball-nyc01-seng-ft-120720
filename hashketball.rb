@@ -4,7 +4,7 @@ require "pry"
 
 def game_hash(data)
 
-game_stat = Hash.new
+game_stat = {}
 
 # The values of the :home and :away keys are hashes
 game_stat
