@@ -4,7 +4,7 @@
 
 def game_hash
 
-game_stat = Hash.new
+# game_stat = Hash.new
 
         {
   :home => {
