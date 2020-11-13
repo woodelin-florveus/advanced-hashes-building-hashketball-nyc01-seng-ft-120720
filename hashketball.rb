@@ -12,4 +12,4 @@ game_stat = Hash.new
 
 game_stat
 end
-binding.pry
+# binding.pry
